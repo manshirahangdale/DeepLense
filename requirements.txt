@@ -9,3 +9,4 @@ astropy
 lenstronomy
 mcfit
 pandas
+einops
